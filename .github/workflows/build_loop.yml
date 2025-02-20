@@ -286,6 +286,7 @@ jobs:
           low_carb_limit \
           override_sens \
           now_line \
+          no_auth \
           watch_title \
           2hlollipop \
           profiles \
